@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Himanshu Rathore 👋
 
-<!--
-**himanshu-rathore08/himanshu-rathore08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML-focused MCA student passionate about building intelligent applications, AI automation systems, and backend solutions using Python and modern AI frameworks.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Skills
+Python
+Machine Learning
+Flask & REST APIs
+Generative AI
+LangChain
+SQL
+Git & GitHub
+Backend Development
+📌 Featured Projects
+Server Monitoring & Incident Management System
+Nia: AI Assistant & Autonomous Agent
+Real-Time Resource Monitoring System
+📫 Connect With Me
+LinkedIn: linkedin.com/in/himanshu-singh-rathore-7aa157273
+GitHub: github.com/himanshu-rathore08
